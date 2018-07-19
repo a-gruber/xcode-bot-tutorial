@@ -1,4 +1,4 @@
-# Step 2: Connect to Build Server
+# Connect to Build Server
 
 1.) Open your local Xcode and go into Preferences.
 

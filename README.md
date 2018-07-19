@@ -3,8 +3,8 @@
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin eu volutpat justo, ac cursus nibh. Maecenas consectetur scelerisque lacus, a interdum elit sagittis vitae. Nam lobortis urna quam, vehicula ultricies libero mollis viverra.
 
 ## Setup
-[Setup Xcode Build Server](1-setup-buildserver.md) <br>
-[Prepare Project for your Bots](3-setup-bot.md) <br>
+[Xcode Build Server](1-setup-buildserver.md) <br>
+[Prepare Project](3-setup-bot.md)
 
 ## Configuration
 [Connect to Xcode Build Server](2-connect-to-buildserver.md) <br>
@@ -12,4 +12,4 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin eu volutpat justo
 
 ## Snippets
 [Increase Buildnumber](4-buildnumber.md) <br>
-[Upload to Testflight via Fastlane Pilot](5-upload.md) <br>
+[Upload to Testflight via Fastlane Pilot](5-upload.md)
