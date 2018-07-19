@@ -62,11 +62,16 @@ increment_version() {
 }
 #### END ####
 
-PROJECT_DIR="/Users/agruber/Repositories/vpnapp/iOS/VPN"
+PROJECT_DIR="${XCS_PRIMARY_REPO_DIR}"
 INFOPLIST_FILE="Info.plist"
 
 buildNumber=$(/usr/libexec/PlistBuddy -c "Print CFBundleVersion" "${PROJECT_DIR}/${INFOPLIST_FILE}")
 buildNumber=$(increment_version "${buildNumber}")
 /usr/libexec/PlistBuddy -c "Set :CFBundleVersion $buildNumber" "${PROJECT_DIR}/${INFOPLIST_FILE}"
 
-cd /Users/agruber/Repositories/vpnapp/ && git add "${PROJECT_DIR}/${INFOPLIST_FILE}" && git commit -m "Increase Build Version Number"
+
+cd "${XCS_PRIMARY_REPO_DIR}"
+git config user.email "email@email.com"
+git config user.name "XCode Build Server"
+git commit -a -m "Increase Build Version Number"
+git push
