@@ -1,4 +1,4 @@
-# Setup your first bot
+# Create your first bot
 
 1.) Switch to Report Navigator. <br>
 <img src="images/CreateBot/0.png" width="500"> 

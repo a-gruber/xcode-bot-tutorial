@@ -8,7 +8,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin eu volutpat justo
 
 ## Configuration
 [Prepare your project](6-prepare-project.md) <br>
-[Create your first bot](3-setup-bot.md)
+[Create your first Bot](3-setup-bot.md)
 
 ## Snippets
 [Increase Buildnumber](4-buildnumber.md) <br>

@@ -20,7 +20,7 @@
 
 <img src="images/Prepare/4.png" width="500">
 
-6.) Select the options that fits into your project
+6.) Select the options that fits for your project
 
 <img src="images/Prepare/5.png" width="500">
 
