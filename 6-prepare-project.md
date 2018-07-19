@@ -1,4 +1,4 @@
-# Prepare your project
+# Prepare your Project
 
 1.) Set signing to manually and fix all errors.
 
