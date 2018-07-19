@@ -11,5 +11,5 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin eu volutpat justo
 [Create your first Bot](3-setup-bot.md)
 
 ## Snippets
-[Increase Buildnumber](4-buildnumber.md) <br>
-[Upload to Testflight via Fastlane Pilot](5-upload.md)
+[Increase Buildnumber](increase_build_number.sh)) <br>
+[Upload to Testflight via Fastlane Pilot](upload.sh)
