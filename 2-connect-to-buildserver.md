@@ -1,4 +1,4 @@
-# Step 1: Connect to Build Server
+# Step 2: Connect to Build Server
 
 1.) Open your local Xcode and go into Preferences.
 
@@ -12,7 +12,7 @@
 
 <img src="images/Step1/2-SelectAccountType.png" width="500">
 
-4.) Select Xcode Server and press continue.
+4.) Select Xcode Server and press next.
 
 <img src="images/Step1/3-SelectServer.png" width="500">
 
