@@ -3,12 +3,12 @@
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin eu volutpat justo, ac cursus nibh. Maecenas consectetur scelerisque lacus, a interdum elit sagittis vitae. Nam lobortis urna quam, vehicula ultricies libero mollis viverra.
 
 ## Setup
-[Xcode Build Server](1-setup-buildserver.md) <br>
-[Prepare Project](3-setup-bot.md)
+[Setup Xcode Build Server on build machine](1-setup-buildserver.md) <br>
+[Connect to Xcode Build Server from development machine](2-connect-to-buildserver.md) <br>
 
 ## Configuration
-[Connect to Xcode Build Server](2-connect-to-buildserver.md) <br>
-[Setup your first bot](3-setup-bot.md)
+[Prepare your project](6-prepare-project.md) <br>
+[Create your first bot](3-setup-bot.md)
 
 ## Snippets
 [Increase Buildnumber](4-buildnumber.md) <br>

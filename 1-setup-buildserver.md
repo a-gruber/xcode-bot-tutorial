@@ -1,4 +1,4 @@
-# Setup Xcode Build Server
+# Setup Xcode Build Server on build machine
 
 1.) Open Xcode server preferences on your build machine.
 
